@@ -1,5 +1,3 @@
-cqc
-===
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -13,7 +11,7 @@ cqc
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cochat.cn/app/install/cochat.ipa</string>
+					<string>http://cq7710.ip5.jspcn.net/app/install/cochat.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
