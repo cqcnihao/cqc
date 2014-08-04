@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>cochat_p</string>
+				<string>cochat_pro</string>
 			</dict>
 		</dict>
 	</array>
